@@ -1,0 +1,12 @@
+TCExam - INSTALL
+============================================================
+
+For quick installation instruction check:
+	install/index.htm
+
+For further information check the documentation on the 
+official TCExam website: https://tcexam.org
+
+============================================================
+
+Patch version install tutorial : you can visit my channel.
